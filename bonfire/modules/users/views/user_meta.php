@@ -1,7 +1,7 @@
 <?php
 
 if (! empty($meta_fields)) :
-    $defaultCountry = 'US';
+    $defaultCountry = 'AU';
     $defaultState   = '';
     $countryFieldId = false;
     $stateFieldId   = false;

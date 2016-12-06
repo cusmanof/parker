@@ -3,7 +3,7 @@
 
 	<p class="lead">If you are not using your carpark, sign in and free it up for someone else.<br/>If you require a carpark, sign in and see if any spots are available.</p>
 
-	<br/><br/><a href="<?php echo site_url('/docs') ?>" class="btn btn-large btn-info">Show free days</a>
+	<br/><br/><a href="<?php echo site_url('/year') ?>" class="btn btn-large btn-info">Show free days</a>
         <?php if ($this->auth->role_id() == 1) : ?>
         <br/><br/><a href="<?php echo site_url('/admin') ?>" class="btn btn-large btn-info">Admin</a> 
         <?php endif ?> 

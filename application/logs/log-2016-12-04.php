@@ -6067,3 +6067,2938 @@ DEBUG - 2016-12-04 21:13:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\h
 DEBUG - 2016-12-04 21:13:13 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
 DEBUG - 2016-12-04 21:13:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
 DEBUG - 2016-12-04 21:13:13 --> Total execution time: 0.6401
+DEBUG - 2016-12-04 21:34:43 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:34:43 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:43 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 21:34:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:34:43 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:34:43 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:34:43 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:43 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:43 --> Template library loaded
+DEBUG - 2016-12-04 21:34:43 --> Assets library loaded.
+DEBUG - 2016-12-04 21:34:43 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 21:34:43 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:34:43 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:43 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:34:43 --> Auth class initialized.
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:34:43 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 21:34:43 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 21:34:43 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:34:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:34:43 --> Total execution time: 0.4780
+DEBUG - 2016-12-04 21:34:46 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:34:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:34:46 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:34:46 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:34:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:46 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:34:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:34:46 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:34:46 --> Template library loaded
+DEBUG - 2016-12-04 21:34:46 --> Assets library loaded.
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:46 --> Auth class initialized.
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:46 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:34:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:46 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 21:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:34:46 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:34:46 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:34:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:46 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:46 --> Template library loaded
+DEBUG - 2016-12-04 21:34:46 --> Assets library loaded.
+DEBUG - 2016-12-04 21:34:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:34:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 21:34:47 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:34:47 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:47 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:34:47 --> Auth class initialized.
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:34:47 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 21:34:47 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 21:34:47 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:34:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:34:47 --> Total execution time: 0.3830
+DEBUG - 2016-12-04 21:34:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:34:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:34:49 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:34:49 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:34:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:49 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:34:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:34:49 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:34:49 --> Template library loaded
+DEBUG - 2016-12-04 21:34:49 --> Assets library loaded.
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:49 --> Auth class initialized.
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/login.php
+DEBUG - 2016-12-04 21:34:49 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/login.php
+DEBUG - 2016-12-04 21:34:49 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:34:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:34:49 --> Total execution time: 0.3510
+DEBUG - 2016-12-04 21:34:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:34:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:34:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:34:51 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:34:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:34:51 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:34:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:34:51 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:34:51 --> Template library loaded
+DEBUG - 2016-12-04 21:34:51 --> Assets library loaded.
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:51 --> Auth class initialized.
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:34:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:34:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/address.php
+DEBUG - 2016-12-04 21:34:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/user_meta.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:34:51 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 21:34:51 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/date_lang.php'
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_fields.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/country_state_js.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_meta.php
+DEBUG - 2016-12-04 21:34:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/register.php
+DEBUG - 2016-12-04 21:34:51 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:34:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:34:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 21:34:52 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:34:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:34:52 --> Total execution time: 0.5010
+DEBUG - 2016-12-04 21:35:13 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:35:13 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:35:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:35:13 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:35:13 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:35:13 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:35:13 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:35:13 --> Template library loaded
+DEBUG - 2016-12-04 21:35:13 --> Assets library loaded.
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:35:13 --> Auth class initialized.
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:35:13 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/address.php
+DEBUG - 2016-12-04 21:35:13 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/user_meta.php
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/form_validation_lang.php'
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:35:13 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/date_lang.php'
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_fields.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/country_state_js.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_meta.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/register.php
+DEBUG - 2016-12-04 21:35:13 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 21:35:13 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:35:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:35:13 --> Total execution time: 0.5961
+DEBUG - 2016-12-04 21:35:24 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:35:24 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:35:24 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 21:35:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:35:24 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:35:24 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:35:24 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:35:24 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 21:35:24 --> Template library loaded
+DEBUG - 2016-12-04 21:35:24 --> Assets library loaded.
+DEBUG - 2016-12-04 21:35:24 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 21:35:24 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:35:24 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:35:24 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:35:24 --> Auth class initialized.
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:35:24 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 21:35:24 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 21:35:24 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:35:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:35:24 --> Total execution time: 0.3480
+DEBUG - 2016-12-04 21:37:29 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:37:29 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:37:29 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:37:29 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:37:29 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:29 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:37:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:37:29 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:37:29 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:37:29 --> Template library loaded
+DEBUG - 2016-12-04 21:37:29 --> Assets library loaded.
+DEBUG - 2016-12-04 21:37:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:37:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:37:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:29 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:29 --> Auth class initialized.
+DEBUG - 2016-12-04 21:37:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:29 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:37:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/login.php
+DEBUG - 2016-12-04 21:37:30 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:37:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:37:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/login.php
+DEBUG - 2016-12-04 21:37:30 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:37:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:37:30 --> Total execution time: 0.3820
+DEBUG - 2016-12-04 21:37:46 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:37:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:37:46 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:37:46 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:37:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:46 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:37:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:37:46 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:37:46 --> Template library loaded
+DEBUG - 2016-12-04 21:37:46 --> Assets library loaded.
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:46 --> Auth class initialized.
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:37:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:37:46 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:37:46 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:37:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:46 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 21:37:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:37:46 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:37:46 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:37:46 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:46 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:46 --> Template library loaded
+DEBUG - 2016-12-04 21:37:47 --> Assets library loaded.
+DEBUG - 2016-12-04 21:37:47 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 21:37:47 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:37:47 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:47 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:37:47 --> Auth class initialized.
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 21:37:47 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 21:37:47 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 21:37:47 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:37:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:37:47 --> Total execution time: 0.3690
+DEBUG - 2016-12-04 21:37:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:37:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:37:49 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:37:49 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:37:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:49 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:37:49 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:37:49 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:37:49 --> Template library loaded
+DEBUG - 2016-12-04 21:37:49 --> Assets library loaded.
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:37:49 --> Auth class initialized.
+DEBUG - 2016-12-04 21:37:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:37:49 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:37:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:37:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:37:49 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:37:49 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:37:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:49 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:37:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:37:49 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:37:49 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:37:49 --> Template library loaded
+DEBUG - 2016-12-04 21:37:49 --> Assets library loaded.
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:37:50 --> Auth class initialized.
+DEBUG - 2016-12-04 21:37:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:37:50 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/admin/content/index.php
+DEBUG - 2016-12-04 21:37:50 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:37:50 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:37:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:37:50 --> Total execution time: 0.5481
+DEBUG - 2016-12-04 21:37:58 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:37:58 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:37:58 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:37:58 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:37:58 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:37:58 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:37:58 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:37:58 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:37:59 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:37:59 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:37:59 --> Template library loaded
+DEBUG - 2016-12-04 21:37:59 --> Assets library loaded.
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:37:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:37:59 --> Auth class initialized.
+DEBUG - 2016-12-04 21:37:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:37:59 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:37:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/sidebar.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/index.php
+DEBUG - 2016-12-04 21:37:59 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/two_left.php
+DEBUG - 2016-12-04 21:37:59 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:37:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:37:59 --> Total execution time: 0.7611
+DEBUG - 2016-12-04 21:38:05 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:38:05 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:38:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:38:05 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:38:05 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:38:05 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:38:05 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:38:05 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:38:05 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:38:05 --> Template library loaded
+DEBUG - 2016-12-04 21:38:05 --> Assets library loaded.
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:38:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:38:05 --> Auth class initialized.
+DEBUG - 2016-12-04 21:38:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:38:05 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:38:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:38:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/libraries/modulebuilder.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/modulebuilder_form.php
+DEBUG - 2016-12-04 21:38:05 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:38:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:38:05 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:38:06 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:38:06 --> Total execution time: 0.7151
+DEBUG - 2016-12-04 21:39:26 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:39:26 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:39:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:39:26 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:39:26 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:39:26 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:39:26 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:39:26 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:39:26 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:39:26 --> Template library loaded
+DEBUG - 2016-12-04 21:39:26 --> Assets library loaded.
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:39:26 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:39:26 --> Auth class initialized.
+DEBUG - 2016-12-04 21:39:26 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:39:26 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:39:26 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:39:26 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/libraries/modulebuilder.php
+DEBUG - 2016-12-04 21:39:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/modulebuilder_form.php
+DEBUG - 2016-12-04 21:39:27 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:39:27 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:39:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:39:27 --> Total execution time: 0.8321
+DEBUG - 2016-12-04 21:41:30 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:41:30 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:41:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:41:30 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:41:30 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:41:30 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:41:30 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:41:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:41:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:41:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:41:30 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:41:30 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:41:30 --> Template library loaded
+DEBUG - 2016-12-04 21:41:31 --> Assets library loaded.
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:41:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:41:31 --> Auth class initialized.
+DEBUG - 2016-12-04 21:41:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:41:31 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:41:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/libraries/modulebuilder.php
+DEBUG - 2016-12-04 21:41:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 21:41:31 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/form_validation_lang.php'
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/modulebuilder_form.php
+DEBUG - 2016-12-04 21:41:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:41:31 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:41:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:41:31 --> Total execution time: 0.9581
+DEBUG - 2016-12-04 21:42:47 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:42:47 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:42:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:42:47 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:42:47 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:42:47 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:42:47 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:42:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:42:47 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:42:48 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:42:48 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:42:48 --> Template library loaded
+DEBUG - 2016-12-04 21:42:48 --> Assets library loaded.
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:42:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:42:48 --> Auth class initialized.
+DEBUG - 2016-12-04 21:42:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:42:48 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:42:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/libraries/modulebuilder.php
+DEBUG - 2016-12-04 21:42:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 21:42:48 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/form_validation_lang.php'
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/controller.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_index_front.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/controller.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_index.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_js.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_sub_nav.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/controller.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_index.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_js.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_sub_nav.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/controller.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_index.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_js.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_sub_nav.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/controller.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_index.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_default.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_js.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/view_sub_nav.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/config.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/languages/english.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/languages/portuguese_br.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/languages/spanish_am.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/languages/italian.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/acl_migration.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/model.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/files/db_migration.php
+DEBUG - 2016-12-04 21:42:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/migrations.php
+DEBUG - 2016-12-04 21:42:49 --> [Migrations] Schema freedays_ updated to: 2
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:42:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/output.php
+DEBUG - 2016-12-04 21:42:49 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:42:49 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:42:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:42:49 --> Total execution time: 1.8392
+DEBUG - 2016-12-04 21:44:18 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:44:18 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:44:18 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:44:18 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:44:18 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:18 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:44:18 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:44:18 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:44:18 --> Template library loaded
+DEBUG - 2016-12-04 21:44:18 --> Assets library loaded.
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:44:18 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:44:18 --> Auth class initialized.
+DEBUG - 2016-12-04 21:44:18 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:44:18 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:44:18 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:44:18 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:44:18 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:44:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:44:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:44:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:44:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:44:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:44:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:44:19 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:44:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:44:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:44:20 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:44:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:44:20 --> Total execution time: 1.4821
+DEBUG - 2016-12-04 21:44:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:44:49 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:44:50 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:44:50 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:50 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:44:50 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:44:50 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:44:50 --> Template library loaded
+DEBUG - 2016-12-04 21:44:50 --> Assets library loaded.
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:44:50 --> Auth class initialized.
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:44:50 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:44:50 --> [Migrations] Schema freedays_ updated to: 1
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:44:50 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:44:50 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:44:50 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:44:50 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:50 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:44:50 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:44:50 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:44:50 --> Template library loaded
+DEBUG - 2016-12-04 21:44:50 --> Assets library loaded.
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:44:50 --> Auth class initialized.
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:44:50 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:44:50 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:44:50 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:44:51 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:44:51 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:44:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:44:51 --> Total execution time: 1.2021
+DEBUG - 2016-12-04 21:44:58 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:44:58 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:44:59 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:44:59 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:59 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:44:59 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:44:59 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:44:59 --> Template library loaded
+DEBUG - 2016-12-04 21:44:59 --> Assets library loaded.
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:44:59 --> Auth class initialized.
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:44:59 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:44:59 --> [Migrations] Schema freedays_ updated to: 2
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:44:59 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:44:59 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:44:59 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:44:59 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:44:59 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:44:59 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:44:59 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:44:59 --> Template library loaded
+DEBUG - 2016-12-04 21:44:59 --> Assets library loaded.
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:44:59 --> Auth class initialized.
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:44:59 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:44:59 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:44:59 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:45:00 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:45:00 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:45:00 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:45:00 --> Total execution time: 1.1971
+DEBUG - 2016-12-04 21:47:47 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:47:47 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:47:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:47:47 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:47:47 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:47:47 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:47:48 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:47:48 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:47:48 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:47:48 --> Template library loaded
+DEBUG - 2016-12-04 21:47:48 --> Assets library loaded.
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:47:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:47:48 --> Auth class initialized.
+DEBUG - 2016-12-04 21:47:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:47:48 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 21:47:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/developer/index.php
+DEBUG - 2016-12-04 21:47:48 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:47:48 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:47:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:47:48 --> Total execution time: 0.7601
+DEBUG - 2016-12-04 21:47:56 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:47:56 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:47:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:47:56 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:47:56 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:47:56 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:47:56 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:47:56 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:47:56 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:47:56 --> Template library loaded
+DEBUG - 2016-12-04 21:47:56 --> Assets library loaded.
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:47:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:47:56 --> Auth class initialized.
+DEBUG - 2016-12-04 21:47:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:47:56 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:47:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/sidebar.php
+DEBUG - 2016-12-04 21:47:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/index.php
+DEBUG - 2016-12-04 21:47:56 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:47:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:47:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/two_left.php
+DEBUG - 2016-12-04 21:47:57 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:47:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:47:57 --> Total execution time: 0.6811
+DEBUG - 2016-12-04 21:48:09 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:48:09 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:48:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:48:09 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:48:09 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:48:09 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:48:09 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:48:09 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:48:09 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:48:09 --> Template library loaded
+DEBUG - 2016-12-04 21:48:09 --> Assets library loaded.
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:48:09 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:48:09 --> Auth class initialized.
+DEBUG - 2016-12-04 21:48:09 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:48:09 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:48:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:48:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:48:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/libraries/modulebuilder.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/modulebuilder_form.php
+DEBUG - 2016-12-04 21:48:10 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:48:10 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:48:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:48:10 --> Total execution time: 0.7391
+DEBUG - 2016-12-04 21:48:15 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:48:15 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:48:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:48:15 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:48:15 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:48:15 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:48:15 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:48:15 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:48:15 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:48:15 --> Template library loaded
+DEBUG - 2016-12-04 21:48:15 --> Assets library loaded.
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:48:15 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:48:15 --> Auth class initialized.
+DEBUG - 2016-12-04 21:48:15 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:48:15 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:48:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang.php
+DEBUG - 2016-12-04 21:48:16 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/language/english/builder_lang'
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/config/modulebuilder.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/sidebar.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/builder/views/developer/index.php
+DEBUG - 2016-12-04 21:48:16 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/two_left.php
+DEBUG - 2016-12-04 21:48:16 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:48:16 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:48:16 --> Total execution time: 0.6451
+DEBUG - 2016-12-04 21:54:38 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:54:38 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:54:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:54:38 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:54:38 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:54:38 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:54:38 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:54:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:54:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:54:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:54:38 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:54:38 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:54:39 --> Template library loaded
+DEBUG - 2016-12-04 21:54:39 --> Assets library loaded.
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:54:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:54:39 --> Auth class initialized.
+DEBUG - 2016-12-04 21:54:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:54:39 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:54:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:54:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:54:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:54:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:54:40 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:54:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:54:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:54:40 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:54:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:54:40 --> Total execution time: 1.2271
+DEBUG - 2016-12-04 21:54:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:54:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:54:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:54:51 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:54:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:54:51 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:54:51 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:54:51 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:54:51 --> Template library loaded
+DEBUG - 2016-12-04 21:54:51 --> Assets library loaded.
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:54:51 --> Auth class initialized.
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:54:51 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 21:54:51 --> Severity: Notice --> Undefined index: THERE WAS AN ERROR MIGRATING THE DATABASE.
+MIGRATION CLASS DOES NOT EXIST: MIGRATION_FREE_DAYS_UPDATE M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire\ci3\core\Log.php 171
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:54:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:54:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:54:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:54:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:54:51 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:54:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:54:51 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:54:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:54:52 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:54:52 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:54:52 --> Template library loaded
+DEBUG - 2016-12-04 21:54:52 --> Assets library loaded.
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:54:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:54:52 --> Auth class initialized.
+DEBUG - 2016-12-04 21:54:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:54:52 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:54:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:54:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:54:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:54:52 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:54:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:54:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:54:53 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:54:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:54:53 --> Total execution time: 1.1861
+DEBUG - 2016-12-04 21:58:27 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:58:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:58:27 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:58:27 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:58:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:27 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:58:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:58:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:58:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:58:27 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:58:27 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:58:27 --> Template library loaded
+DEBUG - 2016-12-04 21:58:27 --> Assets library loaded.
+DEBUG - 2016-12-04 21:58:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:58:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:58:27 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:58:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:58:27 --> Auth class initialized.
+DEBUG - 2016-12-04 21:58:27 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:58:28 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 21:58:28 --> Severity: Notice --> Undefined index: THERE WAS AN ERROR MIGRATING THE DATABASE.
+MIGRATION CLASS DOES NOT EXIST: MIGRATION_FREE_DAYS_UPDATE M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire\ci3\core\Log.php 171
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:58:28 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:58:28 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:58:28 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:58:28 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:28 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:58:28 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:58:28 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:58:28 --> Template library loaded
+DEBUG - 2016-12-04 21:58:28 --> Assets library loaded.
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:58:28 --> Auth class initialized.
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:58:28 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:58:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:58:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:58:29 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:58:29 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:58:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:58:29 --> Total execution time: 1.2691
+DEBUG - 2016-12-04 21:58:55 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:58:55 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:58:55 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:58:55 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:55 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:58:55 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:58:55 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:58:55 --> Template library loaded
+DEBUG - 2016-12-04 21:58:55 --> Assets library loaded.
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:58:55 --> Auth class initialized.
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:58:55 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 21:58:55 --> Severity: Notice --> Undefined index: THERE WAS AN ERROR MIGRATING THE DATABASE.
+MIGRATION CLASS DOES NOT EXIST: MIGRATION_FREE_DAYS_UPDATE M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire\ci3\core\Log.php 171
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:58:55 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:58:55 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:58:55 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:58:55 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:58:55 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:58:55 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:58:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:58:56 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:58:56 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:58:56 --> Template library loaded
+DEBUG - 2016-12-04 21:58:56 --> Assets library loaded.
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:58:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:58:56 --> Auth class initialized.
+DEBUG - 2016-12-04 21:58:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:58:56 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:58:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:58:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:58:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:58:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:58:57 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:58:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:58:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:58:57 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:58:57 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:58:57 --> Total execution time: 1.2071
+DEBUG - 2016-12-04 21:59:34 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:59:34 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:59:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:59:34 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:59:34 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:59:34 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:59:34 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:59:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:59:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:59:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:59:34 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:59:34 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:59:34 --> Template library loaded
+DEBUG - 2016-12-04 21:59:34 --> Assets library loaded.
+DEBUG - 2016-12-04 21:59:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:59:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:59:34 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:59:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:59:34 --> Auth class initialized.
+DEBUG - 2016-12-04 21:59:34 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:59:35 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:59:35 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:59:35 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:59:35 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:59:35 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:59:35 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:59:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:59:36 --> Total execution time: 1.1971
+DEBUG - 2016-12-04 21:59:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:59:44 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:59:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:59:44 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:59:44 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:59:44 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:59:44 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:59:44 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:59:44 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:59:44 --> Template library loaded
+DEBUG - 2016-12-04 21:59:44 --> Assets library loaded.
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:59:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:59:44 --> Auth class initialized.
+DEBUG - 2016-12-04 21:59:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:59:44 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:59:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:59:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 21:59:44 --> Severity: Notice --> Undefined index: THERE WAS AN ERROR MIGRATING THE DATABASE.
+MIGRATION CLASS DOES NOT EXIST: MIGRATION_FREE_DAYS_UPDATE M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire\ci3\core\Log.php 171
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 21:59:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 21:59:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 21:59:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 21:59:45 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:59:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 21:59:45 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 21:59:45 --> Loader Class Initialized
+DEBUG - 2016-12-04 21:59:45 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 21:59:45 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 21:59:45 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 21:59:45 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 21:59:45 --> Template library loaded
+DEBUG - 2016-12-04 21:59:45 --> Assets library loaded.
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 21:59:45 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 21:59:45 --> Auth class initialized.
+DEBUG - 2016-12-04 21:59:45 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 21:59:45 --> Forensics Console library loaded
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 21:59:45 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 21:59:45 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 21:59:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 21:59:46 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 21:59:46 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 21:59:46 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 21:59:46 --> Total execution time: 1.2021
+DEBUG - 2016-12-04 22:02:55 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:02:55 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:02:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:02:55 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:02:55 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:02:55 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:02:55 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:02:55 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:02:55 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:02:55 --> Template library loaded
+DEBUG - 2016-12-04 22:02:55 --> Assets library loaded.
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:02:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:02:55 --> Auth class initialized.
+DEBUG - 2016-12-04 22:02:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:02:55 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:02:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:02:55 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:02:55 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 22:02:55 --> Query error: Table 'bf_free_days' already exists - Invalid query: CREATE TABLE `bf_free_days` (
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`owner` VARCHAR(64) NOT NULL,
+	`parkid` VARCHAR(64) NOT NULL,
+	`free_date` DATE NOT NULL,
+	CONSTRAINT `pk_bf_free_days` PRIMARY KEY(`id`)
+) DEFAULT CHARACTER SET = utf8 COLLATE = utf8_general_ci
+DEBUG - 2016-12-04 22:02:55 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/db_lang.php'
+DEBUG - 2016-12-04 22:56:25 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:56:25 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:56:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:56:25 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:56:25 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:56:25 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:56:25 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:56:25 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:56:25 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:56:25 --> Template library loaded
+DEBUG - 2016-12-04 22:56:25 --> Assets library loaded.
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:56:25 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:56:25 --> Auth class initialized.
+DEBUG - 2016-12-04 22:56:25 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:56:25 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:56:25 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:56:25 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:56:25 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 22:56:26 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:56:26 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:56:26 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:56:26 --> Total execution time: 1.2251
+DEBUG - 2016-12-04 22:56:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:56:32 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:56:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:56:32 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:56:32 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:56:32 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:56:32 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:56:32 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:56:32 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:56:33 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:56:33 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:56:33 --> Template library loaded
+DEBUG - 2016-12-04 22:56:33 --> Assets library loaded.
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:56:33 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:56:33 --> Auth class initialized.
+DEBUG - 2016-12-04 22:56:33 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:56:33 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:56:33 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:56:33 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:56:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 22:56:33 --> Query error: Unknown column 'free_date' in 'bf_free_days' - Invalid query: ALTER TABLE `bf_free_days`
+	MODIFY `free_date` DATE NOT NULL
+DEBUG - 2016-12-04 22:56:33 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/db_lang.php'
+DEBUG - 2016-12-04 22:57:08 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:08 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:57:08 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:57:08 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:57:08 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:08 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:57:08 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:57:08 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:57:08 --> Template library loaded
+DEBUG - 2016-12-04 22:57:08 --> Assets library loaded.
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:57:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:57:08 --> Auth class initialized.
+DEBUG - 2016-12-04 22:57:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:57:08 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:57:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:57:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 22:57:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 22:57:09 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:57:09 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:57:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:57:09 --> Total execution time: 1.2061
+DEBUG - 2016-12-04 22:57:13 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:13 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:57:13 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:57:13 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:57:13 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:13 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:57:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:57:13 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:57:14 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:57:14 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:57:14 --> Template library loaded
+DEBUG - 2016-12-04 22:57:14 --> Assets library loaded.
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:57:14 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:57:14 --> Auth class initialized.
+DEBUG - 2016-12-04 22:57:14 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:57:14 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:57:14 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:57:14 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:57:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+ERROR - 2016-12-04 22:57:14 --> Query error: Unknown column 'free_date' in 'bf_free_days' - Invalid query: ALTER TABLE `bf_free_days`
+	MODIFY `free_date` DATE NOT NULL
+DEBUG - 2016-12-04 22:57:14 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/db_lang.php'
+DEBUG - 2016-12-04 22:57:33 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:33 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:39 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:39 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:57:39 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:57:39 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:57:39 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:39 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:57:39 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:57:39 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:57:39 --> Template library loaded
+DEBUG - 2016-12-04 22:57:39 --> Assets library loaded.
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:57:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:57:39 --> Auth class initialized.
+DEBUG - 2016-12-04 22:57:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:57:39 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:57:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:57:40 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:57:40 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 22:57:40 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:57:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:57:40 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:57:41 --> Total execution time: 1.2551
+DEBUG - 2016-12-04 22:57:41 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:41 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:57:41 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:57:41 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:57:41 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:41 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:57:41 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:57:41 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:57:41 --> Template library loaded
+DEBUG - 2016-12-04 22:57:41 --> Assets library loaded.
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:57:41 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:57:41 --> Auth class initialized.
+DEBUG - 2016-12-04 22:57:41 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:57:41 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:57:41 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:57:41 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:57:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 22:57:42 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:57:42 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:57:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:57:42 --> Total execution time: 1.1961
+DEBUG - 2016-12-04 22:57:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:57:51 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:57:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:51 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:57:51 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:57:51 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:57:51 --> Template library loaded
+DEBUG - 2016-12-04 22:57:51 --> Assets library loaded.
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:57:51 --> Auth class initialized.
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:57:51 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 22:57:51 --> [Migrations] Schema freedays_ updated to: 3
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 22:57:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 22:57:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:57:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:57:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:57:52 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:57:52 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:57:52 --> Developer MX_Controller Initialized
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:57:52 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:57:52 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:57:52 --> Template library loaded
+DEBUG - 2016-12-04 22:57:52 --> Assets library loaded.
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:57:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:57:52 --> Auth class initialized.
+DEBUG - 2016-12-04 22:57:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:57:52 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang.php
+DEBUG - 2016-12-04 22:57:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/language/english/database_lang'
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang.php
+DEBUG - 2016-12-04 22:57:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/language/english/migrations_lang'
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/libraries/Migrations.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:57:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/_sub_nav.php
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/migrations/views/developer/index.php
+DEBUG - 2016-12-04 22:57:53 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:57:53 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:57:53 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:57:53 --> Total execution time: 1.1951
+DEBUG - 2016-12-04 22:59:05 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:59:05 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:59:05 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:59:05 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:59:05 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:05 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:59:05 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:59:05 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:59:05 --> Template library loaded
+DEBUG - 2016-12-04 22:59:05 --> Assets library loaded.
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:59:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:59:05 --> Auth class initialized.
+DEBUG - 2016-12-04 22:59:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:59:05 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 22:59:05 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/_sub_nav.php
+DEBUG - 2016-12-04 22:59:05 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:59:06 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/index.php
+DEBUG - 2016-12-04 22:59:06 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:59:06 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:59:06 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:59:06 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:59:06 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:59:06 --> Total execution time: 0.6941
+DEBUG - 2016-12-04 22:59:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:59:10 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:59:10 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:59:10 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:59:10 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:10 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:59:10 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:59:10 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:59:10 --> Template library loaded
+DEBUG - 2016-12-04 22:59:10 --> Assets library loaded.
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:59:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:59:10 --> Auth class initialized.
+DEBUG - 2016-12-04 22:59:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:59:10 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 22:59:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/_sub_nav.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/create.php
+DEBUG - 2016-12-04 22:59:10 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:59:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:59:10 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:59:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:59:11 --> Total execution time: 0.6661
+DEBUG - 2016-12-04 22:59:28 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:59:28 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:59:28 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:59:28 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:28 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:59:28 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:59:28 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:59:28 --> Template library loaded
+DEBUG - 2016-12-04 22:59:28 --> Assets library loaded.
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:59:28 --> Auth class initialized.
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:59:28 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/form_validation_lang.php'
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 22:59:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 22:59:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 22:59:29 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 22:59:29 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 22:59:29 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 22:59:29 --> Loader Class Initialized
+DEBUG - 2016-12-04 22:59:29 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 22:59:29 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 22:59:29 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 22:59:29 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 22:59:29 --> Template library loaded
+DEBUG - 2016-12-04 22:59:29 --> Assets library loaded.
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 22:59:29 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 22:59:29 --> Auth class initialized.
+DEBUG - 2016-12-04 22:59:29 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 22:59:29 --> Forensics Console library loaded
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 22:59:29 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/_sub_nav.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/index.php
+DEBUG - 2016-12-04 22:59:29 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 22:59:29 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 22:59:29 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 22:59:29 --> Total execution time: 0.6321
+DEBUG - 2016-12-04 23:03:09 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:03:09 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:03:09 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:03:09 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:03:09 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:09 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 23:03:09 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 23:03:09 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 23:03:09 --> Template library loaded
+DEBUG - 2016-12-04 23:03:09 --> Assets library loaded.
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:03:09 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:03:09 --> Auth class initialized.
+DEBUG - 2016-12-04 23:03:09 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:03:09 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 23:03:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 23:03:09 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/_sub_nav.php
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/index.php
+DEBUG - 2016-12-04 23:03:10 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 23:03:10 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:03:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:03:10 --> Total execution time: 0.6811
+DEBUG - 2016-12-04 23:03:11 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:03:11 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:03:11 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:03:11 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:03:11 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:11 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 23:03:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:03:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:03:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 23:03:11 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 23:03:11 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 23:03:11 --> Template library loaded
+DEBUG - 2016-12-04 23:03:11 --> Assets library loaded.
+DEBUG - 2016-12-04 23:03:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:03:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:03:11 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:03:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:03:11 --> Auth class initialized.
+DEBUG - 2016-12-04 23:03:12 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:03:12 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 23:03:12 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/_sub_nav.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/create.php
+DEBUG - 2016-12-04 23:03:12 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 23:03:12 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:03:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:03:12 --> Total execution time: 0.6431
+DEBUG - 2016-12-04 23:03:20 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:03:20 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:03:20 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:03:20 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:20 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 23:03:20 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 23:03:20 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 23:03:20 --> Template library loaded
+DEBUG - 2016-12-04 23:03:20 --> Assets library loaded.
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:03:20 --> Auth class initialized.
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:03:20 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/bf_form_validation_lang.php'
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/form_validation_lang.php'
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/models/activity_model.php
+DEBUG - 2016-12-04 23:03:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang.php
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/activities/language/english/activities_lang'
+DEBUG - 2016-12-04 23:03:20 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:03:20 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:03:20 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:03:20 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:03:20 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:03:21 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 23:03:21 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 23:03:21 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 23:03:21 --> Template library loaded
+DEBUG - 2016-12-04 23:03:21 --> Assets library loaded.
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:03:21 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:03:21 --> Auth class initialized.
+DEBUG - 2016-12-04 23:03:21 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:03:21 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/models/freedays_model.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang.php
+DEBUG - 2016-12-04 23:03:21 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/language/english/freedays_lang'
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/_sub_nav.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/freedays/views/content/index.php
+DEBUG - 2016-12-04 23:03:21 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 23:03:21 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:03:21 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:03:21 --> Total execution time: 0.6471
+DEBUG - 2016-12-04 23:04:30 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:04:30 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:30 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:04:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:04:31 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:04:31 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:04:31 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:31 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:04:31 --> Template library loaded
+DEBUG - 2016-12-04 23:04:31 --> Assets library loaded.
+DEBUG - 2016-12-04 23:04:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:04:31 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:04:31 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:04:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:04:31 --> Auth class initialized.
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:04:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:04:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:04:31 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:04:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:04:31 --> Total execution time: 0.6211
+DEBUG - 2016-12-04 23:04:33 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:04:33 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:04:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:04:33 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:04:33 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:04:33 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:33 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:04:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:04:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:04:33 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:04:33 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:04:33 --> Template library loaded
+DEBUG - 2016-12-04 23:04:33 --> Assets library loaded.
+DEBUG - 2016-12-04 23:04:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:04:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:04:33 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:04:33 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:04:33 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:33 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:04:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:04:33 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:04:33 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:04:33 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:34 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:04:34 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:04:34 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:04:34 --> Template library loaded
+DEBUG - 2016-12-04 23:04:34 --> Assets library loaded.
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:04:34 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/_sidebar.php
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/index.php
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/docs/index.php
+DEBUG - 2016-12-04 23:04:34 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:04:34 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:04:34 --> Total execution time: 0.6711
+DEBUG - 2016-12-04 23:04:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:04:36 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:36 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:04:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:04:36 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:04:36 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:04:36 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:04:36 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:04:36 --> Template library loaded
+DEBUG - 2016-12-04 23:04:36 --> Assets library loaded.
+DEBUG - 2016-12-04 23:04:36 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:04:36 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:04:36 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:04:36 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:04:36 --> Auth class initialized.
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:04:36 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:04:36 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:04:36 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:04:36 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:04:37 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:04:37 --> Total execution time: 0.4440
+DEBUG - 2016-12-04 23:07:38 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:07:38 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:07:38 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:07:38 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:07:38 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:07:38 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:07:38 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:07:38 --> Template library loaded
+DEBUG - 2016-12-04 23:07:38 --> Assets library loaded.
+DEBUG - 2016-12-04 23:07:38 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:07:38 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:07:38 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:07:38 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:07:38 --> Auth class initialized.
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:07:38 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:07:38 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:07:38 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:07:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:07:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:07:39 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:07:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:07:39 --> Total execution time: 0.4160
+DEBUG - 2016-12-04 23:07:43 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:07:43 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:07:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:07:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:07:43 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:07:43 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:07:43 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:07:43 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:07:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:07:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:07:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:07:44 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:07:44 --> Template library loaded
+DEBUG - 2016-12-04 23:07:44 --> Assets library loaded.
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:07:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:07:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:07:44 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:07:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:07:44 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:07:44 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:07:44 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:07:44 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:07:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:07:44 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:07:44 --> Template library loaded
+DEBUG - 2016-12-04 23:07:44 --> Assets library loaded.
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:07:44 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/_sidebar.php
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/index.php
+DEBUG - 2016-12-04 23:07:44 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/docs/index.php
+DEBUG - 2016-12-04 23:07:44 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:07:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:07:45 --> Total execution time: 0.5851
+DEBUG - 2016-12-04 23:08:08 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:08:08 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:08:08 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:08:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:08:08 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:08:08 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:08:08 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:08:08 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:08:08 --> Template library loaded
+DEBUG - 2016-12-04 23:08:08 --> Assets library loaded.
+DEBUG - 2016-12-04 23:08:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:08:08 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:08:08 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:08:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:08:08 --> Auth class initialized.
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:08:08 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:08:08 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:08:08 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:08:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:08:08 --> Total execution time: 0.3700
+DEBUG - 2016-12-04 23:08:30 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:08:30 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:08:30 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:08:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:08:30 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:08:30 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:08:30 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:08:30 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:08:30 --> Template library loaded
+DEBUG - 2016-12-04 23:08:30 --> Assets library loaded.
+DEBUG - 2016-12-04 23:08:30 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:08:30 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:08:30 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:08:30 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:08:30 --> Auth class initialized.
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:08:30 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:08:30 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:08:30 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:08:30 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:08:30 --> Total execution time: 0.3640
+DEBUG - 2016-12-04 23:18:01 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:18:01 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:18:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:18:01 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:18:01 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:18:01 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:01 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:18:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:18:01 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:18:01 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:18:01 --> Template library loaded
+DEBUG - 2016-12-04 23:18:01 --> Assets library loaded.
+DEBUG - 2016-12-04 23:18:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:18:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:18:01 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:18:02 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:18:02 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:18:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:18:02 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:18:02 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:18:02 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:02 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:18:02 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:18:02 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:18:02 --> Template library loaded
+DEBUG - 2016-12-04 23:18:02 --> Assets library loaded.
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:18:02 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/_sidebar.php
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/index.php
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/docs/index.php
+DEBUG - 2016-12-04 23:18:02 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:18:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:18:02 --> Total execution time: 0.6171
+DEBUG - 2016-12-04 23:18:07 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:18:07 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:07 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:18:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:18:07 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:18:07 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:18:07 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:07 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:07 --> Template library loaded
+DEBUG - 2016-12-04 23:18:07 --> Assets library loaded.
+DEBUG - 2016-12-04 23:18:07 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:18:07 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:18:07 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:18:07 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:18:07 --> Auth class initialized.
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:18:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:18:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:18:07 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:18:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:18:07 --> Total execution time: 0.3840
+DEBUG - 2016-12-04 23:18:48 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:18:48 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:48 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:18:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:18:48 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:18:48 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:18:48 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:48 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:48 --> Template library loaded
+DEBUG - 2016-12-04 23:18:48 --> Assets library loaded.
+DEBUG - 2016-12-04 23:18:48 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:18:48 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:18:49 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:18:49 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:18:49 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:18:49 --> Auth class initialized.
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:18:49 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:18:49 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:18:49 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:18:49 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:18:49 --> Total execution time: 0.4050
+DEBUG - 2016-12-04 23:18:50 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:18:50 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:50 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:18:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:18:50 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:18:50 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:18:50 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:18:50 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:51 --> Template library loaded
+DEBUG - 2016-12-04 23:18:51 --> Assets library loaded.
+DEBUG - 2016-12-04 23:18:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:18:51 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:18:51 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:18:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:18:51 --> Auth class initialized.
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:18:51 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:18:51 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:18:51 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:18:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:18:51 --> Total execution time: 0.4230
+DEBUG - 2016-12-04 23:19:42 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:19:42 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:19:42 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:19:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:19:42 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:19:42 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:19:42 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:19:42 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:19:42 --> Template library loaded
+DEBUG - 2016-12-04 23:19:42 --> Assets library loaded.
+DEBUG - 2016-12-04 23:19:42 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:19:42 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:19:42 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:19:42 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:19:42 --> Auth class initialized.
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:19:42 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:19:42 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:19:42 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:19:42 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:19:43 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:19:43 --> Total execution time: 0.4390
+DEBUG - 2016-12-04 23:19:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:19:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:19:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:19:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:19:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:19:51 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:19:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:19:51 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:19:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:19:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:19:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:19:51 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:19:51 --> Template library loaded
+DEBUG - 2016-12-04 23:19:51 --> Assets library loaded.
+DEBUG - 2016-12-04 23:19:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:19:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:19:51 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:19:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:19:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:19:51 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:19:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:19:51 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:19:51 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:19:51 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:19:52 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:19:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:19:52 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:19:52 --> Template library loaded
+DEBUG - 2016-12-04 23:19:52 --> Assets library loaded.
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:19:52 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/_sidebar.php
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/index.php
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/docs/index.php
+DEBUG - 2016-12-04 23:19:52 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:19:52 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:19:52 --> Total execution time: 0.6011
+DEBUG - 2016-12-04 23:21:01 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:21:01 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:21:01 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:21:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:21:01 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:21:01 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:21:01 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:21:01 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:21:01 --> Template library loaded
+DEBUG - 2016-12-04 23:21:01 --> Assets library loaded.
+DEBUG - 2016-12-04 23:21:01 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:21:01 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:21:01 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:21:01 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:21:01 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:21:01 --> Auth class initialized.
+DEBUG - 2016-12-04 23:21:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:21:02 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:21:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:21:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:21:02 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:21:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:21:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:21:02 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:21:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:21:02 --> Total execution time: 0.3680
+DEBUG - 2016-12-04 23:28:15 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:28:15 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:15 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:28:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:28:15 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:28:15 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:28:15 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:15 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:28:15 --> Template library loaded
+DEBUG - 2016-12-04 23:28:15 --> Assets library loaded.
+DEBUG - 2016-12-04 23:28:15 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:28:15 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:28:15 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:28:15 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:28:15 --> Auth class initialized.
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:28:15 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:28:15 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:28:15 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:28:15 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:28:15 --> Total execution time: 0.5071
+DEBUG - 2016-12-04 23:28:39 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:28:39 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:28:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:28:39 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:28:39 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:28:39 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:39 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:28:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:28:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:28:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:28:39 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:28:39 --> Template library loaded
+DEBUG - 2016-12-04 23:28:39 --> Assets library loaded.
+DEBUG - 2016-12-04 23:28:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:28:39 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:28:39 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:28:40 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:28:40 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/routes.php
+DEBUG - 2016-12-04 23:28:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:28:40 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:28:40 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:28:40 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:40 --> Docs MX_Controller Initialized
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:28:40 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:28:40 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:28:40 --> Template library loaded
+DEBUG - 2016-12-04 23:28:40 --> Assets library loaded.
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/config/docs.php
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang.php
+DEBUG - 2016-12-04 23:28:40 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/language/english/docs_lang'
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/_sidebar.php
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/docs/views/index.php
+DEBUG - 2016-12-04 23:28:40 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/docs/index.php
+DEBUG - 2016-12-04 23:28:40 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:28:41 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:28:41 --> Total execution time: 0.7463
+DEBUG - 2016-12-04 23:28:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:28:45 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:45 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:28:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:28:45 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:28:45 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:28:45 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:28:45 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:28:45 --> Template library loaded
+DEBUG - 2016-12-04 23:28:45 --> Assets library loaded.
+DEBUG - 2016-12-04 23:28:45 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:28:45 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:28:45 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:28:45 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:28:45 --> Auth class initialized.
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:28:45 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:28:45 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:28:45 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:28:45 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:28:45 --> Total execution time: 0.3519
+DEBUG - 2016-12-04 23:32:19 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:32:19 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:32:19 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:32:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:32:19 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:32:19 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:32:19 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:32:19 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:32:19 --> Template library loaded
+DEBUG - 2016-12-04 23:32:19 --> Assets library loaded.
+DEBUG - 2016-12-04 23:32:19 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:32:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:32:19 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:32:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:32:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:32:19 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:32:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:32:19 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:32:20 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:32:20 --> Auth class initialized.
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:32:20 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:32:20 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:32:20 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:32:20 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:32:20 --> Total execution time: 0.3764
+DEBUG - 2016-12-04 23:34:56 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:34:56 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:34:56 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:34:56 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:34:56 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:34:56 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:34:56 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:34:56 --> Template library loaded
+DEBUG - 2016-12-04 23:34:56 --> Assets library loaded.
+DEBUG - 2016-12-04 23:34:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:34:56 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:34:56 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:34:56 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:34:56 --> Auth class initialized.
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:34:56 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:34:56 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:34:56 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:34:56 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:34:56 --> Total execution time: 0.4820
+DEBUG - 2016-12-04 23:35:02 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:35:02 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:02 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:35:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:35:02 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:35:02 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:35:02 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:02 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:35:02 --> Template library loaded
+DEBUG - 2016-12-04 23:35:02 --> Assets library loaded.
+DEBUG - 2016-12-04 23:35:02 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:35:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:35:02 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:35:02 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:35:03 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:35:03 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:35:03 --> Auth class initialized.
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:35:03 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:35:03 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:35:03 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:35:03 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:35:03 --> Total execution time: 0.6961
+DEBUG - 2016-12-04 23:35:07 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:35:07 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:35:07 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:35:07 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:35:07 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:07 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:35:07 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:35:07 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:35:07 --> Template library loaded
+DEBUG - 2016-12-04 23:35:07 --> Assets library loaded.
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:35:07 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:35:07 --> Auth class initialized.
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:35:07 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:35:07 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/address.php
+DEBUG - 2016-12-04 23:35:07 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/user_meta.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:35:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:35:07 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/date_lang.php'
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_fields.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/country_state_js.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_meta.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/profile.php
+DEBUG - 2016-12-04 23:35:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:35:07 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:35:07 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:35:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:35:08 --> Total execution time: 0.4671
+DEBUG - 2016-12-04 23:35:14 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:35:14 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:14 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:35:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:35:14 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:35:14 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:35:14 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:14 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:35:14 --> Template library loaded
+DEBUG - 2016-12-04 23:35:14 --> Assets library loaded.
+DEBUG - 2016-12-04 23:35:14 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:35:14 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:35:14 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:35:14 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:35:14 --> Auth class initialized.
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:35:14 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:35:14 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:35:14 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:35:14 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:35:14 --> Total execution time: 0.3635
+DEBUG - 2016-12-04 23:35:27 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:35:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:35:27 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:35:27 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:35:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:35:27 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:35:27 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:35:27 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:35:27 --> Template library loaded
+DEBUG - 2016-12-04 23:35:27 --> Assets library loaded.
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:35:27 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:35:27 --> Auth class initialized.
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:35:27 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:35:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/address.php
+DEBUG - 2016-12-04 23:35:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/user_meta.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:35:27 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:35:27 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/date_lang.php'
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_fields.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/country_state_js.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_meta.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/profile.php
+DEBUG - 2016-12-04 23:35:27 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:35:27 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:35:27 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:35:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:35:28 --> Total execution time: 0.4541
+DEBUG - 2016-12-04 23:42:08 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:08 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:08 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:42:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:08 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:08 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:08 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:08 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:08 --> Template library loaded
+DEBUG - 2016-12-04 23:42:08 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:42:08 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:08 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:08 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:08 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:42:08 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:42:08 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:42:08 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:42:08 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:42:09 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:42:09 --> Total execution time: 0.3628
+DEBUG - 2016-12-04 23:42:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:10 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:10 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:10 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:10 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:10 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 23:42:10 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 23:42:10 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 23:42:10 --> Template library loaded
+DEBUG - 2016-12-04 23:42:10 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:10 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:10 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:10 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 23:42:10 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 23:42:11 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:11 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:11 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:11 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:11 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:11 --> Content MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/libraries/contexts.php
+DEBUG - 2016-12-04 23:42:11 --> UI/Contexts setContexts has been called.
+DEBUG - 2016-12-04 23:42:11 --> UI/Contexts library loaded
+DEBUG - 2016-12-04 23:42:11 --> Template library loaded
+DEBUG - 2016-12-04 23:42:11 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:11 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:11 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:11 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:11 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/permissions/models/permission_model.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_permission_model.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/ui/views/shortcut_keys.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/emailer/views/settings/menu.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/database/views/developer/menu.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/header.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/admin/content/index.php
+DEBUG - 2016-12-04 23:42:11 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/footer.php
+DEBUG - 2016-12-04 23:42:11 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/admin/index.php
+DEBUG - 2016-12-04 23:42:11 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:42:12 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:42:12 --> Total execution time: 0.5767
+DEBUG - 2016-12-04 23:42:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:23 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:23 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:23 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:23 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:23 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:23 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:23 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:23 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:23 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:24 --> Template library loaded
+DEBUG - 2016-12-04 23:42:24 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:24 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:24 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:24 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:24 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:24 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:24 --> No URI present. Default controller set.
+DEBUG - 2016-12-04 23:42:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:24 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:24 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:24 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:24 --> Home MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:24 --> Template library loaded
+DEBUG - 2016-12-04 23:42:24 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:24 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\controllers/../../application/modules/blog/controllers/blog.php
+DEBUG - 2016-12-04 23:42:24 --> Blog MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:24 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application/modules/blog/models/post_model.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:24 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:24 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:42:24 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/home/index.php
+DEBUG - 2016-12-04 23:42:24 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:42:24 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:42:24 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:42:24 --> Total execution time: 0.3718
+DEBUG - 2016-12-04 23:42:27 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:27 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:27 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:27 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:28 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:28 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:28 --> Template library loaded
+DEBUG - 2016-12-04 23:42:28 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:28 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:28 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/login.php
+DEBUG - 2016-12-04 23:42:28 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/login.php
+DEBUG - 2016-12-04 23:42:28 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:42:28 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:42:28 --> Total execution time: 0.5057
+DEBUG - 2016-12-04 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2016-12-04 23:42:31 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-04 23:42:31 --> Bonfire MY_Lang: Language Class Initialized
+DEBUG - 2016-12-04 23:42:31 --> Loader Class Initialized
+DEBUG - 2016-12-04 23:42:31 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/application.php
+DEBUG - 2016-12-04 23:42:31 --> Users MX_Controller Initialized
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/libraries/settings_lib.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/settings/models/settings_model.php
+DEBUG - 2016-12-04 23:42:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\language/english/application_lang.php'
+DEBUG - 2016-12-04 23:42:31 --> Forensics Console library loaded
+DEBUG - 2016-12-04 23:42:31 --> Template library loaded
+DEBUG - 2016-12-04 23:42:31 --> Assets library loaded.
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/models/user_model.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/libraries/auth.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:31 --> Auth class initialized.
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang.php
+DEBUG - 2016-12-04 23:42:31 --> Bonfire MY_Lang: Language file loaded: 'M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/language/english/users_lang'
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/roles/models/role_model.php
+DEBUG - 2016-12-04 23:42:31 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/address.php
+DEBUG - 2016-12-04 23:42:31 --> Config file loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\config/user_meta.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/header.php
+DEBUG - 2016-12-04 23:42:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/_sitenav.php
+DEBUG - 2016-12-04 23:42:31 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/date_lang.php'
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_fields.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/country_state_js.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/user_meta.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\bonfire/modules/users/views/register.php
+DEBUG - 2016-12-04 23:42:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/footer.php
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\public/themes/default/index.php
+DEBUG - 2016-12-04 23:42:31 --> Bonfire MY_Lang: Language file loaded: 'M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/language/english/profiler_lang.php'
+DEBUG - 2016-12-04 23:42:31 --> File loaded: M:\adi_vsfz\dev_apps\wamp\apache2\htdocs\parker\application\views/profiler_template.php
+DEBUG - 2016-12-04 23:42:31 --> Total execution time: 0.4358
