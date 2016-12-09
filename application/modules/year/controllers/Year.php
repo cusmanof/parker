@@ -21,7 +21,7 @@ class Year extends Front_Controller {
         parent::__construct();
 
         $this->lang->load('year');
-        
+        $this->load->model('users/user_model');
 
         Assets::add_module_js('year', 'year.js');
     }
@@ -32,12 +32,14 @@ class Year extends Front_Controller {
      * @return void
      */
     public function index() {
-      
-        $flds = $this->freedays_model->select('datefree')->where('user', '')->find_all();
+         $user = $this->user_model->find_user_and_meta($this->current_user->id);
+        $flds = $this->freedays_model->select('datefree')->find_all_by(array('user'=>'','area'=> $user->area));
         $data = array();
-        foreach ($flds as $free) :
-            array_push($data, $free->datefree);
-        endforeach;
+        if ($flds) {
+            foreach ($flds as $free) :
+                array_push($data, $free->datefree);
+            endforeach;
+        }
         Template::set('data', $data);
         Template::render();
     }

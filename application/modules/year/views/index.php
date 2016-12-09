@@ -100,6 +100,7 @@
             <h1>Free days from <?php echo  date('M') ." ". date('Y') ?> </h1>
 
             <?php
+            
             $mm = date('n');
             $yy = date('Y');
             $dd = date('d');

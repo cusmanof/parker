@@ -23,20 +23,20 @@ defined('BASEPATH') || exit('No direct script access allowed');
 
 $config['user_meta_fields'] = array(
     array(
-        'name'   => 'type',
-        'label'   => 'Car park',
-        'rules'   => 'required',
+        'name' => 'type',
+        'label' => 'Car park',
+        'rules' => 'required',
         'form_detail' => array(
             'type' => 'dropdown',
             'settings' => array(
-                'name'      => 'type',
-                'id'        => 'type',
-                'class'     => 'span2',
+                'name' => 'type',
+                'id' => 'type',
+                'class' => 'span2',
             ),
-            'options' =>  array(
-                'owner'  => 'OWNER',
-                'user'    => 'USER',
-              ),
+            'options' => array(
+                'owner' => 'OWNER',
+                'user' => 'USER',
+            ),
         ),
     ),
     array(
@@ -52,13 +52,13 @@ $config['user_meta_fields'] = array(
                 'class' => 'span3'
             ),
         ),
-    ),  
+    ),
     array(
         'name' => 'area',
         'label' => 'Park location',
-        'rules' => 'trim|max_length[24]',
+        'rules' => 'required',
         'form_detail' => array(
-            'type' => 'input',
+            'type' => 'location',
             'settings' => array(
                 'name' => 'area',
                 'id' => 'area',
@@ -66,9 +66,9 @@ $config['user_meta_fields'] = array(
                 'class' => 'span6',
                 'default' => 'West Leederville'
             ),
-        ),
+         ),
     ),
-     array(
+    array(
         'name' => 'parklocation',
         'label' => 'Bay number',
         'rules' => 'trim|max_length[24]',
@@ -77,6 +77,20 @@ $config['user_meta_fields'] = array(
             'settings' => array(
                 'name' => 'parklocation',
                 'id' => 'parklocation',
+                'maxlength' => '24',
+                'class' => 'span3'
+            ),
+        ),
+    ),
+    array(
+        'name' => 'daycost',
+        'label' => 'Cost per day $',
+        'rules' => 'trim|numeric',
+        'form_detail' => array(
+            'type' => 'input',
+            'settings' => array(
+                'name' => 'daycost',
+                'id' => 'daycost',
                 'maxlength' => '24',
                 'class' => 'span3'
             ),

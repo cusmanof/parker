@@ -544,14 +544,8 @@ class Users extends Front_Controller
 
         $this->form_validation->set_rules($this->user_model->get_validation_rules($type));
 
-        $usernameRequired = '';
-        if ($this->settings_lib->item('auth.login_type') == 'username'
-            || $this->settings_lib->item('auth.use_usernames')
-        ) {
-            $usernameRequired = 'required|';
-        }
-
-        $this->form_validation->set_rules('username', 'lang:bf_username', "{$usernameRequired}trim|max_length[30]|unique[users.username{$extraUniqueRule}]");
+        
+        $this->form_validation->set_rules('username', 'lang:bf_username', "required|trim|max_length[30]|unique[users.username{$extraUniqueRule}]");
         $this->form_validation->set_rules('email', 'lang:bf_email', "required|trim|valid_email|max_length[254]|unique[users.email{$extraUniqueRule}]");
 
         // If a value has been entered for the password, pass_confirm is required.

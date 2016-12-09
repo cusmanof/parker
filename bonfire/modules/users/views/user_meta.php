@@ -27,6 +27,22 @@ if (! empty($meta_fields)) :
                 set_value($field['name'], isset($user->{$field['name']}) ? $user->{$field['name']} : ''),
                 $field['label']
             );
+            elseif ($field['form_detail']['type'] == 'location') :
+                $this->load->model('locations/locations_model');
+                $flds = $this->locations_model->select('location')->find_all();
+                $data = array();
+                if ($flds) {
+                    foreach ($flds as $free) :
+                        $data[$free->location] = $free->location;
+                    endforeach;
+                }
+                echo form_dropdown(
+                    $field['form_detail']['settings'],
+                    $data,
+                    set_value($field['name'], isset($user->{$field['name']}) ? $user->{$field['name']} : ''),
+                    $field['label']
+                );
+        
         elseif ($field['form_detail']['type'] == 'checkbox') :
 ?>
 <div class="control-group<?php echo form_error($field['name']) ? ' error' : ''; ?>">
