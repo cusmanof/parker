@@ -1,14 +1,16 @@
 <div class="jumbotron" text-align="center">
-	<h1>Welcome to PARKER</h1>
+    <h1>Welcome to PARKER</h1>
 
-	<p class="lead">If you are not using your carpark, sign in and free it up for someone else.<br/>If you require a carpark, sign in and see if any spots are available.</p>
-        <?php if ($this->auth->is_logged_in()) : ?>
-            <br/><br/><a href="<?php echo site_url('/year') ?>" class="btn btn-large btn-info">Show free days</a>
-             <a href="<?php echo site_url('/main') ?>" class="btn btn-large btn-info">Calendar</a>
-            <?php if ($this->auth->role_id() == 1) : ?>
+    <p class="lead">If you are not using your carpark, sign in and free it up for someone else.<br/>If you require a carpark, sign in and see if any spots are available.</p>
+    <?php if ($this->auth->is_logged_in()) : ?>
+        <br/><br/>
+        <a href="<?php echo site_url('/year') ?>" class="btn btn-large btn-info">Show free days</a>
+        <a href="<?php echo site_url('/main') ?>" class="btn btn-large btn-info">Calendar</a>
+        <a href="<?php echo site_url('/alloc') ?>" class="btn btn-large btn-info">List allocations</a>
+        <?php if ($this->auth->role_id() == 1) : ?>
             <br/><br/><a href="<?php echo site_url('/admin') ?>" class="btn btn-large btn-info">Admin</a> 
-            <?php endif ?> 
         <?php endif ?> 
+    <?php endif ?> 
 </div>
 
 <hr />
@@ -16,15 +18,15 @@
     <h3>Latest news</h3>
 
     <?php
-    if (empty($posts) || ! is_array($posts)) :
-    ?>
-    <div class="alert alert-warning">
-        No Posts found.
-    </div>
-    <?php
+    if (empty($posts) || !is_array($posts)) :
+        ?>
+        <div class="alert alert-warning">
+            No Posts found.
+        </div>
+        <?php
     else :
         $numColumns = 3;
-    ?>
+        ?>
         <table class="table table-striped">
             <thead>
                 <tr>
@@ -33,22 +35,22 @@
                     <th>Article</th>
                 </tr>
             </thead>
-            
+
             <tbody>
                 <?php foreach ($posts as $post) : ?>
-                <tr>
-                    <td>
+                    <tr>
+                        <td>
                             <?php e($post->title); ?>
-                    </td>
-                    <td>
-                        <?php echo date_format(new DateTime($post->created_on),'j M, Y g:ia'); ?>
-                    </td>
-                    <td style="white-space:pre-line;"><?php e(trim($post->body)); ?></td>
-                </tr>
+                        </td>
+                        <td>
+                            <?php echo date_format(new DateTime($post->created_on), 'j M, Y g:ia'); ?>
+                        </td>
+                        <td style="white-space:pre-line;"><?php e(trim($post->body)); ?></td>
+                    </tr>
                 <?php endforeach; ?>
             </tbody>
         </table>
-        <?php
+    <?php
     endif;
-        ?>
+    ?>
 </div>

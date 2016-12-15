@@ -24,6 +24,9 @@ class Falendar {
     private $daysInMonth = 0;
     private $naviHref = null;
     private $today;
+    private $first;
+    private $used;
+    private $free;
 
     /*     * ******************* PUBLIC ********************* */
 
@@ -32,7 +35,14 @@ class Falendar {
      */
     public function show($data) {
         $this->today = date('Y-m-d');
-
+        $f = isset($data['content']['first_day']) ? $data['content']['first_day'] : null;
+        $e = isset($data['content']['last_day']) ? $data['content']['last_day'] : null;
+        if (empty($e))
+            $e = $f;
+        $this->first = min($f, $e);
+        $this->last = max($f, $e);
+        $this->used = $data['content']['used'];
+        $this->free = $data['content']['free'];
         $year = $data['year'];
 
         $month = $data['month'];
@@ -71,6 +81,14 @@ class Falendar {
         $content .= '</div>';
 
         $content .= '</div>';
+        $content .= '<BR><center>';
+        $curr_href = '&month=' . sprintf('%02d', $month) . '&year=' . $year;
+        if (!empty($this->first)) {
+            $content .= '<a  class="btn btn-large btn-info" href="' . $this->naviHref . '?act=clear' . $curr_href . '">Clear selection</a>';
+            $content .= '  <a  class="btn btn-large btn-info" href="' . $this->naviHref . '?act=free' . $curr_href . '">Free selection(s)</a>';
+            $content .= '  <a  class="btn btn-large btn-info" href="' . $this->naviHref . '?act=recall' . $curr_href . '">Un-free selection(s)</a>';
+        }
+        $content .= '</center>';
         return $content;
     }
 
@@ -106,6 +124,16 @@ class Falendar {
         }
 
         $class = '';
+        $help = '';
+        if (in_array($this->currentDate, $this->free)) {
+            $class = 'free';
+            $cellContent .= ' free';
+        } elseif (in_array($this->currentDate, array_keys($this->used))) {
+            $class = 'used';
+            $cellContent .= ' used';
+            $help = $this->used[$this->currentDate];
+        }
+
         if (empty($this->currentDate)) {
             $class = 'blank';
         } else if ($this->currentDate == $this->today) {
@@ -113,9 +141,17 @@ class Falendar {
         } else if ($cellNumber % 7 == 6 || $cellNumber % 7 == 0) {
             $class = 'weekend';
         }
+        if ($this->first != null) {
+            if ($this->last == null) {
+                $this->last = $this->first;
+            }
+            if ($this->currentDate >= $this->first && $this->currentDate <= $this->last) {
+                $class = 'first';
+            }
+        }
 
 
-        return '<li  onclick="showMessage(this);" id="' . $this->currentDate . '" class="' . $class . '"' .
+        return '<li  title="' . $help . '" onclick="showMessage(this);" id="' . $this->currentDate . '" class="' . $class . '"' .
                 ($cellContent == null ? 'mask' : '') . '">' . $cellContent . '</li>';
     }
 

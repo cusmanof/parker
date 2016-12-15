@@ -8,12 +8,12 @@ and open the template in the editor.
     Author     : cusmano
 */
 div#calendar{
-  margin:0px auto;
-  padding:0px;
-  width: 602px;
-  font-family:Helvetica, "Times New Roman", Times, serif;
+    margin:0px auto;
+    padding:0px;
+    width: 602px;
+    font-family:Helvetica, "Times New Roman", Times, serif;
 }
- 
+
 div#calendar div.box{
     position:relative;
     top:0px;
@@ -22,7 +22,7 @@ div#calendar div.box{
     height:40px;
     background-color:   #787878 ;      
 }
- 
+
 div#calendar div.header{
     line-height:40px;  
     vertical-align:middle;
@@ -33,7 +33,7 @@ div#calendar div.header{
     height:40px;   
     text-align:center;
 }
- 
+
 div#calendar div.header a.prev,div#calendar div.header a.next{ 
     position:absolute;
     top:0px;   
@@ -43,32 +43,32 @@ div#calendar div.header a.prev,div#calendar div.header a.next{
     text-decoration:none;
     color:#FFF;
 }
- 
+
 div#calendar div.header span.title{
     color:#FFF;
     font-size:18px;
 }
- 
- 
+
+
 div#calendar div.header a.prev{
     left:0px;
 }
- 
+
 div#calendar div.header a.next{
     right:0px;
 }
- 
- 
- 
- 
+
+
+
+
 /*******************************Calendar Content Cells*********************************/
 div#calendar div.box-content{
     border:1px solid #787878 ;
     border-top:none;
 }
- 
- 
- 
+
+
+
 div#calendar ul.label{
     float:left;
     margin: 0px;
@@ -76,7 +76,7 @@ div#calendar ul.label{
     margin-top:5px;
     margin-left: 5px;
 }
- 
+
 div#calendar ul.label li{
     margin:0px;
     padding:0px;
@@ -92,8 +92,8 @@ div#calendar ul.label li{
     font-size: 15px;
     background-color: transparent;
 }
- 
- 
+
+
 div#calendar ul.dates{
     float:left;
     margin: 0px;
@@ -101,7 +101,7 @@ div#calendar ul.dates{
     margin-left: 5px;
     margin-bottom: 5px;
 }
- 
+
 /** overall width = width+padding-right**/
 div#calendar ul.dates li{
     margin:0px;
@@ -114,24 +114,35 @@ div#calendar ul.dates li{
     list-style-type:none;
     width:80px;
     height:80px;
-    font-size:25px;
+    font-size:20px;
     background-color: #DDD;
     color:#000;
     text-align:center; 
     cursor:pointer;
 }
- div#calendar ul.dates li.weekend{
-   
+div#calendar ul.dates li.free{
+    background-color: #0088E6;
+    color:#000;
+}
+div#calendar ul.dates li.used{
+    background-color: #8800E6;
+    color:#000;
+}
+div#calendar ul.dates li.weekend{
     background-color: #ADD8E6;
     color:#000;
 }
+div#calendar ul.dates li.first{
+    background-color: #e5e500;
+    color:#000;
+}
 div#calendar ul.dates li.today{
-   cursor:pointer;
+    cursor:pointer;
     background-color: #008088;
     color:#000;
 }
 div#calendar ul.dates li.blank{
-   cursor:not-allowed;
+    cursor:not-allowed;
     background-color: #EEEEEE;
     color:#000;
 }
@@ -139,7 +150,7 @@ div#calendar ul.dates li.blank{
 :focus{
     outline:none;
 }
- 
+
 div.clear{
     clear:both;
 } 

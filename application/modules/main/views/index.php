@@ -13,8 +13,9 @@
         var dd = ele.id;
         if (dd) {
              var xhttp = new XMLHttpRequest();
-                xhttp.open("GET", "main?act=single&day=" + dd , false);
+                xhttp.open("GET", "main?act=select&day=" + dd , false);
                 xhttp.send();
+                window.location.reload();
         }
 
     }
@@ -29,12 +30,12 @@ if (!empty($this->session->flashdata('error'))) {
     echo '</div>';
 }
 echo '<h2>' . $data['user'] . '</h2>';
+if (!empty($this->session->flashdata('msg'))) {
+    echo '<div class="alert alert-info">';
+    echo $this->session->flashdata('msg');
+    echo '</div>';
+}
 echo $this->falendar->show($data);
-// Generate calendar
-//    $tt = str_replace('{base_url}', base_url(), $this->calendar->generate($data->year, $data->month, $data->content));
-//    $tt = str_replace('{year}', $data->year, $data->tt);
-//    $tt = str_replace('{month}', $data->month, $data->tt);
-//    echo $tt;
 //flash data
 echo '<p>';
 if (!empty($this->session->flashdata('error'))) {

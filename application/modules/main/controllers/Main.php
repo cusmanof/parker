@@ -40,70 +40,19 @@ class Main extends Front_Controller {
         Assets::add_module_js('main', 'main.js');
     }
 
-    private function T2($vv) {
-        return substr('00' . $vv, -2);
-    }
-
-    public function fullDate() {
-        return $this->yy . "-" . $this->T2($this->mm) . "-" . $this->T2($this->dd);
-    }
-
-    public function partDate() {
-        return $this->yy . "-" . $this->T2($this->mm) . "-";
-    }
-
-    public function do_user() {
-        $this->freedays->reserve_available_date($this->user_data, $this->fullDate());
-    }
-
-    public function all() {
-
-
-        if ($this->isOwner) {
-            $data['user'] = "Owner : " . $this->user_data->username;
-            $data['isUser'] = false;
-            $data["table"] = $this->freedays_model->do_list_owner($this->user_data);
-        } else {
-            $data['user'] = "User : " . $this->user_data->username;
-            $data['isUser'] = true;
-            $data["table"] = $this->freedays_model->do_list_user($this->user_data);
-        }
-
-        Assets::add_module_css('main', 'falendar.css');
-        Template::set('data', $data);
-        Template::render();
-    }
-
-    public function do_owner1() {
-        $result = $this->freedays_model->get_entries_for_owner($this->user_data, $this->partDate());
-        if (array_key_exists($this->dd, $result)) {
-            $this->freedays_model->do_release_for_owner($this->user_data, $this->fullDate());
-        } else {
-            $this->freedays_model->do_free_for_owner($this->user_data, $this->fullDate(), $this->bay);
-        }
-    }
-
-    public function do_owner() {
-        $this->do_owner1();
-        if ($this->range) {
-            $f = 'Y-m-d';
-            $s = $this->yy . "-" . $this->mm . "-" . $this->dd;
-            $e = $this->ryy . "-" . $this->rmm . "-" . $this->rdd;
-            $endDate = date_create_from_format($f, $e);
-            $workDate = date_create_from_format($f, $s);
-            while ($workDate < $endDate) {
-                $workDate->modify('+1 day');
-                $this->yy = $workDate->format('Y');
-                $this->mm = $workDate->format('m');
-                $this->dd = $workDate->format('d');
-                $this->do_owner1();
+    public function do_owner_select() {
+        $dd = $this->icheck($this->input->get('day'), '');
+        if (!empty($dd) && $dd >= date('Y-m-d')) {
+            if ($this->session->has_userdata('first_day')) {
+                $this->session->set_userdata('last_day', $dd);
+            } else {
+                $this->session->set_userdata('first_day', $dd);
             }
         }
     }
 
-    public function reset() {
-        $this->freedays_model->do_reset($this->user, $isOwner);
-        redirect('home');
+    public function do_user_select() {
+        
     }
 
     private function icheck($val, $default) {
@@ -111,33 +60,77 @@ class Main extends Front_Controller {
     }
 
     public function index() {
+        $result = array();
+        $used = array();
+        $free = array();
+        array_push($result, $used, $free);
         $this->act = $this->icheck($this->input->get('act'), 'move');
+        $this->yy = $this->icheck($this->input->get('year'), date('Y'));
+        $this->mm = $this->icheck($this->input->get('month'), date('m'));
+        $curr_href = '&month=' . sprintf('%02d', $this->mm) . '&year=' . $this->yy;
         switch ($this->act) {
-            case 'single':
-                $dd = $this->icheck($this->input->get('day'), '');
-                if (!empty($dd) && $dd >= date('Y-m-d')) {
-                    if ($this->session->has_userdata('first_day')) {
-                        $d1 = $this->session->first_day;
-                       var_dump($dd); 
-                       $this->session->unset_userdata('first_day');
-                    }else {
-                     $this->session->set_userdata('first_day', $dd); 
-                      return;
-                    }
+            case 'select':
+                if ($this->isOwner) {
+                    $this->do_owner_select();
+                } else {
+                    $this->do_user_select();
                 }
-               break;
-            default:
+                break;
+            case 'clear':
                 $this->session->unset_userdata('first_day');
-                $this->yy = $this->icheck($this->input->get('year'), date('Y'));
-                $this->mm = $this->icheck($this->input->get('month'), date('m'));
+                $this->session->unset_userdata('last_day');
+                redirect($this->session->previous_page . '?act=move' . $curr_href);
+                break;
+            case 'free':
+                $f = $this->session->first_day;
+                $e = $this->session->last_day;
+                if (empty($e))
+                    $e = $f;
+                if (!empty($f)) { //safety first
+                    $this->first = min($f, $e);
+                    $this->last = max($f, $e);
+                    $this->freedays_model->free_up($this->user_data, $f, $e);
+                }
+                $this->session->unset_userdata('first_day');
+                $this->session->unset_userdata('last_day');
+                redirect($this->session->previous_page . '?act=move' . $curr_href);
+                break;
+            case 'recall':
+                $f = $this->session->first_day;
+                $e = $this->session->last_day;
+                if (empty($e))
+                    $e = $f;
+                if (!empty($f)) { //safety first
+                    $this->first = min($f, $e);
+                    $this->last = max($f, $e);
+                    $this->freedays_model->unfree_up($this->user_data, $f, $e);
+                }
+                $this->session->unset_userdata('first_day');
+                $this->session->unset_userdata('last_day');
+                redirect($this->session->previous_page . '?act=move' . $curr_href);
+                break;
+            default:
+                break;
         }
 
-        $result = array();
+        if ($this->isOwner) {
+            if ($this->session->has_userdata('first_day')) {
+                $result['first_day'] = $this->session->first_day;
+                if ($this->session->has_userdata('last_day')) {
+                    $result['last_day'] = $this->session->last_day;
+                }
+                $this->session->set_flashdata('msg', 'Press the button you require.');
+            } else {
+                $this->session->set_flashdata('msg', 'Click on the first and then the last day you want to free up.');
+            }
+            $result['used'] = $this->freedays_model->get_used($this->user_data);
+            $result['free'] = $this->freedays_model->get_free($this->user_data);
+        }
 
         $data = array(
             'year' => $this->yy,
             'month' => $this->mm,
-            'content' => $result
+            'content' => $result,
         );
 
 // Load view page
