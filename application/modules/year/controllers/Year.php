@@ -40,6 +40,7 @@ class Year extends Front_Controller {
                 array_push($data, $free->datefree);
             endforeach;
         }
+        $data['area'] = $user->area;
         Template::set('data', $data);
         Template::render();
     }

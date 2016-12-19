@@ -52,7 +52,10 @@ class Main extends Front_Controller {
     }
 
     public function do_user_select() {
-        
+      $dd = $this->icheck($this->input->get('day'), '');
+        if (!empty($dd) && $dd >= date('Y-m-d')) {
+           $this->freedays_model->alloc($this->user_data, $dd);
+        }   
     }
 
     private function icheck($val, $default) {
@@ -125,6 +128,9 @@ class Main extends Front_Controller {
             }
             $result['used'] = $this->freedays_model->get_used($this->user_data);
             $result['free'] = $this->freedays_model->get_free($this->user_data);
+        } else {
+            $result['free'] = $this->freedays_model->get_unalloc($this->user_data);
+            $this->session->set_flashdata('msg', 'Click on a date to reserve that day');
         }
 
         $data = array(
@@ -135,10 +141,10 @@ class Main extends Front_Controller {
 
 // Load view page
         if ($this->isOwner) {
-            $data['user'] = "Owner : " . $this->user_data->username;
+            $data['user'] = "Owner : " . $this->user_data->username . ' @ ' . $this->user_data->area;
             $data['isUser'] = false;
         } else {
-            $data['user'] = "User : " . $this->user_data->username;
+            $data['user'] = "User : " . $this->user_data->username. ' @ ' . $this->user_data->area;
             $data['isUser'] = true;
         }
         Assets::add_module_css('main', 'falendar.css');

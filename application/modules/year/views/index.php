@@ -97,7 +97,7 @@
     </head>
     <body>
         <div align="center">
-            <h1>Free days from <?php echo  date('M') ." ". date('Y') ?> </h1>
+            <h2>Free days @ <?php echo  $data['area'] ?> </h2>
 
             <?php
             

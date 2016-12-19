@@ -29,13 +29,14 @@ if (!empty($this->session->flashdata('error'))) {
     echo $this->session->flashdata('error');
     echo '</div>';
 }
-echo '<h2>' . $data['user'] . '</h2>';
+echo '<h3>' . $data['user'] . '</h3>';
 if (!empty($this->session->flashdata('msg'))) {
     echo '<div class="alert alert-info">';
     echo $this->session->flashdata('msg');
     echo '</div>';
 }
 echo $this->falendar->show($data);
+
 //flash data
 echo '<p>';
 if (!empty($this->session->flashdata('error'))) {

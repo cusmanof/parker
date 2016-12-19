@@ -46,26 +46,6 @@ class Freedays_model extends BF_Model {
         parent::__construct();
     }
 
-    function get_entries_for_month($user, $yymm) {
-        $result = array();
-        $query = $this->freedays_model->where('area', $user->area)->like('datefree', $yymm)->find_all();
-        if ($query)
-            foreach ($query as $row) {
-                $dd = new DateTime($row->datefree);
-                if (empty($row->userId) && !isset($result[$dd->format('j')])) {
-                    $result[$dd->format('j')] = '<span style="color:green"><B></I>Free</B></I></span>';
-                } else if ($user->username == $row->user) {
-                    if (!empty($row->owner)) {
-                        $res = 'park in <span style="color:#0000DD">' . $row->baylocation . '</span><BR>';
-                        $res = $res . $row['owner'];
-                    } else {
-                        $res = '<span style="color:#D2691E">Requested</span>';
-                    }
-                    $result[$dd->format('j')] = $res;
-                }
-            }
-        return $result;
-    }
 
     function free_up($user, $f, $e) {
         //first delete any entries within that range as long as they are not already taken.
@@ -131,7 +111,35 @@ class Freedays_model extends BF_Model {
         }
         return $arr;
     }
+    
+     function get_unalloc($user1) {
+        $this->freedays_model->delete_where(array('datefree < ' => date('Y-m-d')));
+        $arr = array();
+        $query = $this->freedays_model
+                ->where('area', $user1->area)
+                ->where('user', '')
+                ->find_all();
+        if ($query) {
+            foreach ($query as $row) {
+                array_push($arr, $row->datefree);
+            }
+        }
+        return $arr;
+    }
+    
     function get_alloc($user1) {
+        $query = $this->freedays_model
+                ->where('owner', $user1->username)
+                ->where('area', $user1->area)
+                ->join('users', 'users.username = user' )
+                ->find_all();
+        if (!$query) {
+           return null;
+        }
+        return $query;
+    }
+    
+    function alloc($user1, $dd) {
         $query = $this->freedays_model
                 ->where('owner', $user1->username)
                 ->where('area', $user1->area)

@@ -27,6 +27,7 @@ class Falendar {
     private $first;
     private $used;
     private $free;
+    private $isUser;
 
     /*     * ******************* PUBLIC ********************* */
 
@@ -35,14 +36,15 @@ class Falendar {
      */
     public function show($data) {
         $this->today = date('Y-m-d');
+        $this->isUser = $data['isUser'];
         $f = isset($data['content']['first_day']) ? $data['content']['first_day'] : null;
         $e = isset($data['content']['last_day']) ? $data['content']['last_day'] : null;
         if (empty($e))
             $e = $f;
         $this->first = min($f, $e);
         $this->last = max($f, $e);
-        $this->used = $data['content']['used'];
-        $this->free = $data['content']['free'];
+        $this->used = isset($data['content']['used']) ? $data['content']['used'] : array();
+        $this->free = isset($data['content']['free']) ? $data['content']['free'] : array();
         $year = $data['year'];
 
         $month = $data['month'];
@@ -55,32 +57,30 @@ class Falendar {
 
         $this->daysInMonth = $this->_daysInMonth($month, $year);
 
-        $content = '<div id="calendar">' .
-                '<div class="box">' .
-                $this->_createNavi() .
-                '</div>' .
-                '<div class="box-content">' .
-                '<ul class="label">' . $this->_createLabels() . '</ul>';
+        $content = '<table id="fc" class="calendar">' .
+                '<tr class="header">' . $this->_createNavi() . '</tr>' .
+                '<tr class="day_header">' . $this->_createLabels() . '</tr>';
+      
         $content .= '<div class="clear"></div>';
-        $content .= '<ul id="fc" class="dates">';
+       
 
         $weeksInMonth = $this->_weeksInMonth($month, $year);
         // Create weeks in a month
         for ($i = 0; $i < $weeksInMonth; $i++) {
 
             //Create days in a week
+            $content .= '<tr>';
             for ($j = 1; $j <= 7; $j++) {
                 $content .= $this->_showDay($i * 7 + $j);
             }
+            $content .= '</tr>';
         }
 
-        $content .= '</ul>';
+         $content .= '</table>';
 
-        $content .= '<div class="clear"></div>';
+      
 
-        $content .= '</div>';
 
-        $content .= '</div>';
         $content .= '<BR><center>';
         $curr_href = '&month=' . sprintf('%02d', $month) . '&year=' . $year;
         if (!empty($this->first)) {
@@ -113,7 +113,7 @@ class Falendar {
 
             $this->currentDate = date('Y-m-d', strtotime($this->currentYear . '-' . $this->currentMonth . '-' . ($this->currentDay)));
 
-            $cellContent = $this->currentDay;
+            $cellContent = $this->currentDay . '<br>';
 
             $this->currentDay++;
         } else {
@@ -123,15 +123,14 @@ class Falendar {
             $cellContent = null;
         }
 
-        $class = '';
+        $class = 'unused';
         $help = '';
         if (in_array($this->currentDate, $this->free)) {
             $class = 'free';
-            $cellContent .= ' free';
+            $cellContent .= $this->isUser ? 'available' : 'free';
         } elseif (in_array($this->currentDate, array_keys($this->used))) {
             $class = 'used';
-            $cellContent .= ' used';
-            $help = $this->used[$this->currentDate];
+            $cellContent .= 'used<br>' . $this->used[$this->currentDate];
         }
 
         if (empty($this->currentDate)) {
@@ -151,8 +150,8 @@ class Falendar {
         }
 
 
-        return '<li  title="' . $help . '" onclick="showMessage(this);" id="' . $this->currentDate . '" class="' . $class . '"' .
-                ($cellContent == null ? 'mask' : '') . '">' . $cellContent . '</li>';
+        return '<td  onclick="showMessage(this);" id="' . $this->currentDate . '" class="' . $class . '"' .
+                ($cellContent == null ? 'mask' : '') . '">' . $cellContent . '</td>';
     }
 
     /**
@@ -168,12 +167,9 @@ class Falendar {
 
         $preYear = $this->currentMonth == 1 ? intval($this->currentYear) - 1 : $this->currentYear;
 
-        return
-                '<div class="header">' .
-                '<a class="prev" href="' . $this->naviHref . '?act=move&month=' . sprintf('%02d', $preMonth) . '&year=' . $preYear . '">Prev</a>' .
-                '<span class="title">' . date('Y M', strtotime($this->currentYear . '-' . $this->currentMonth . '-1')) . '</span>' .
-                '<a class="next" href="' . $this->naviHref . '?act=move&month=' . sprintf("%02d", $nextMonth) . '&year=' . $nextYear . '">Next</a>' .
-                '</div>';
+        return '<th><a class="prev" href="' . $this->naviHref . '?act=move&month=' . sprintf('%02d', $preMonth) . '&year=' . $preYear . '">Prev</a></th>' .
+                '<th colspan="5">' . date('Y M', strtotime($this->currentYear . '-' . $this->currentMonth . '-1')) . '</th>' .
+                '<th><a class="next" href="' . $this->naviHref . '?act=move&month=' . sprintf("%02d", $nextMonth) . '&year=' . $nextYear . '">Next</a></th>';
     }
 
     /**
@@ -185,7 +181,7 @@ class Falendar {
 
         foreach ($this->dayLabels as $index => $label) {
 
-            $content .= '<li class="' . ($label == 6 ? 'end title' : 'start title') . ' title">' . $label . '</li>';
+            $content .= '<th>' . $label . '</th>';
         }
 
         return $content;
