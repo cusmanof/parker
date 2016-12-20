@@ -45,6 +45,7 @@
     color:#000;
 }
 .today{
+    cursor: pointer;
     background-color: #008088;
     color:#000;
 }

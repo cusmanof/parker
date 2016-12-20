@@ -139,6 +139,24 @@ class Freedays_model extends BF_Model {
         return $query;
     }
     
+    function get_reserved($user1) {
+        $arr = array();
+         $query = $this->freedays_model
+                ->where('user', $user1->username)
+                ->where('area', $user1->area)
+                ->join('users', 'users.username = owner' )
+                ->find_all();
+        if ($query) {
+            foreach ($query as $row) {
+                if (!empty($row->user)) {
+                    $arr[$row->datefree]= $row;
+                }
+            }
+        }
+        return $arr;
+        
+        return $query;
+    } 
     function alloc($user1, $dd) {
         $query = $this->freedays_model
                 ->where('owner', $user1->username)

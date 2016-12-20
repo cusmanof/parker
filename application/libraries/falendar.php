@@ -28,6 +28,7 @@ class Falendar {
     private $used;
     private $free;
     private $isUser;
+    private $user_model;
 
     /*     * ******************* PUBLIC ********************* */
 
@@ -35,6 +36,7 @@ class Falendar {
      * print out the calendar
      */
     public function show($data) {
+        $this->user_model =$data['user_model'];
         $this->today = date('Y-m-d');
         $this->isUser = $data['isUser'];
         $f = isset($data['content']['first_day']) ? $data['content']['first_day'] : null;
@@ -130,9 +132,17 @@ class Falendar {
             $cellContent .= $this->isUser ? 'available' : 'free';
         } elseif (in_array($this->currentDate, array_keys($this->used))) {
             $class = 'used';
-            $cellContent .= 'used<br>' . $this->used[$this->currentDate];
+            if ($this->isUser) {
+                $owner=$this->used[$this->currentDate];
+                $cellContent .= 'reserved<br>' . $owner->baylocation;
+                $ph = $this->user_model->find_meta_for($owner->id, array('phone'))->phone;
+                $help = $owner->username . ' ' . $ph . ' ' .$owner->email;
+            } else {
+                $class = 'used';
+                $cellContent .= 'used<br>' . $this->used[$this->currentDate];
+            }
         }
-
+        
         if (empty($this->currentDate)) {
             $class = 'blank';
         } else if ($this->currentDate == $this->today) {
@@ -150,7 +160,7 @@ class Falendar {
         }
 
 
-        return '<td  onclick="showMessage(this);" id="' . $this->currentDate . '" class="' . $class . '"' .
+        return '<td  title="'. $help .'" onclick="showMessage(this);" id="' . $this->currentDate . '" class="' . $class . '"' .
                 ($cellContent == null ? 'mask' : '') . '">' . $cellContent . '</td>';
     }
 

@@ -87,12 +87,11 @@
 | the query builder class.
 */
 
-$active_group = 'default';
+$active_group = 'gae';
 
-if (defined('CI_VERSION') && substr(CI_VERSION, 0, 1) != '2') {
     // CodeIgniter 3 configuration
     $query_builder = true;
-    $db['default'] = array(
+    $db['local'] = array(
         'dsn'          => '',
         'hostname'     => 'localhost',
         'username'     => 'root',
@@ -113,24 +112,26 @@ if (defined('CI_VERSION') && substr(CI_VERSION, 0, 1) != '2') {
         'failover'     => array(),
         'save_queries' => true,
     );
-} else {
-    // CodeIgniter 2 configuration
-    $active_record = true;
+    
+    $db['gae'] = array(
+	'dsn'	=> '',
+	'hostname' => '/cloudsql/fpark-1098:frank',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'fbf',
+	'dbdriver' => 'mysqli',
+	'dbprefix' => 'bf_',
+	'pconnect' => FALSE,
+	'db_debug' => false,
+	'cache_on' => FALSE,
+	'cachedir' => '',
+	'char_set' => 'utf8',
+	'dbcollat' => 'utf8_general_ci',
+	'swap_pre' => '',
+	'encrypt' => FALSE,
+	'compress' => FALSE,
+	'stricton' => FALSE,
+	'failover' => array(),
+	'save_queries' => TRUE
+);
 
-    $db['default']['hostname'] = 'localhost';
-    $db['default']['username'] = '';
-    $db['default']['password'] = '';
-    $db['default']['database'] = '';
-    $db['default']['port']     = '';
-    $db['default']['dbdriver'] = 'bfmysqli';
-    $db['default']['dbprefix'] = 'bf_';
-    $db['default']['pconnect'] = true;
-    $db['default']['db_debug'] = true;
-    $db['default']['cache_on'] = false;
-    $db['default']['cachedir'] = '';
-    $db['default']['char_set'] = 'utf8';
-    $db['default']['dbcollat'] = 'utf8_general_ci';
-    $db['default']['swap_pre'] = '';
-    $db['default']['autoinit'] = true;
-    $db['default']['stricton'] = true;
-}
