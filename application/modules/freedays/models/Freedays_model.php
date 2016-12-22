@@ -46,7 +46,6 @@ class Freedays_model extends BF_Model {
         parent::__construct();
     }
 
-
     function free_up($user, $f, $e) {
         //first delete any entries within that range as long as they are not already taken.
         $this->unfree_up($user, $f, $e);
@@ -90,7 +89,7 @@ class Freedays_model extends BF_Model {
         if ($query) {
             foreach ($query as $row) {
                 if (!empty($row->user)) {
-                    $arr[$row->datefree]= $row->user;
+                    $arr[$row->datefree] = $row->user;
                 }
             }
         }
@@ -111,8 +110,8 @@ class Freedays_model extends BF_Model {
         }
         return $arr;
     }
-    
-     function get_unalloc($user1) {
+
+    function get_unalloc($user1) {
         $this->freedays_model->delete_where(array('datefree < ' => date('Y-m-d')));
         $arr = array();
         $query = $this->freedays_model
@@ -126,46 +125,57 @@ class Freedays_model extends BF_Model {
         }
         return $arr;
     }
-    
+
     function get_alloc($user1) {
         $query = $this->freedays_model
                 ->where('owner', $user1->username)
                 ->where('area', $user1->area)
-                ->join('users', 'users.username = user' )
+                ->join('users', 'users.username = user')
                 ->find_all();
         if (!$query) {
-           return null;
+            return null;
         }
         return $query;
     }
-    
+
     function get_reserved($user1) {
         $arr = array();
-         $query = $this->freedays_model
+        $query = $this->freedays_model
                 ->where('user', $user1->username)
                 ->where('area', $user1->area)
-                ->join('users', 'users.username = owner' )
+                ->join('users', 'users.username = owner')
                 ->find_all();
         if ($query) {
             foreach ($query as $row) {
                 if (!empty($row->user)) {
-                    $arr[$row->datefree]= $row;
+                    $arr[$row->datefree] = $row;
                 }
             }
         }
         return $arr;
-        
-        return $query;
-    } 
-    function alloc($user1, $dd) {
-        $query = $this->freedays_model
-                ->where('owner', $user1->username)
-                ->where('area', $user1->area)
-                ->join('users', 'users.username = user' )
-                ->find_all();
-        if (!$query) {
-           return null;
-        }
+
         return $query;
     }
+
+    function alloc($user1, $dd) {
+        $query = $this->freedays_model
+                ->where('datefree', $dd)
+                ->where('area', $user1->area)
+                ->where('user', $user1->username)
+                ->find_all();
+        if ($query) {
+            $this->freedays_model
+                    ->update_where('id', $query[0]->id, array('user' => ''));
+        } else {
+            $wh = array(
+                'area' => $user1->area,
+                'datefree' => $dd,
+                'user' => ''
+            );
+            $this->freedays_model
+                    ->update_where($wh, null, array('user' => $user1->username));
+        }
+        return;
+    }
+
 }

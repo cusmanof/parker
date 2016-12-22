@@ -85,7 +85,7 @@ class Falendar {
 
         $content .= '<BR><center>';
         $curr_href = '&month=' . sprintf('%02d', $month) . '&year=' . $year;
-        if (!empty($this->first)) {
+        if (!$this->isUser && !empty($this->first)) {
             $content .= '<a  class="btn btn-large btn-info" href="' . $this->naviHref . '?act=clear' . $curr_href . '">Clear selection</a>';
             $content .= '  <a  class="btn btn-large btn-info" href="' . $this->naviHref . '?act=free' . $curr_href . '">Free selection(s)</a>';
             $content .= '  <a  class="btn btn-large btn-info" href="' . $this->naviHref . '?act=recall' . $curr_href . '">Un-free selection(s)</a>';

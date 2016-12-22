@@ -3,42 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/config/profiler.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/main/assets/css/falendar.css</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/core/Common.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/alloc/views/index.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/blog/controllers/blog.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/core/CodeIgniter.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/main/views/index.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/public/themes/default/index.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/config/application.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/views/home/index.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/database/DB_query_builder.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/core/Model.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/core/BF_Model.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/index.html</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/freedays/models/Freedays_model.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/libraries/Falendar.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/public/index.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/controllers/Home.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/public/themes/default/header.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/config/config.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/year/views/index.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/blog/migrations/001_Initial_tables.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/main/controllers/Main.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/config/database.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/database/drivers/mysqli/mysqli_driver.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/modules/users/models/User_model.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/libraries/Profiler.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/libraries/Email.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/.htaccess</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/libraries/Assets.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/freedays/models/Freedays_model.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/locations/config/config.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/year/controllers/Year.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/zzindex.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/config/autoload.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/main/config/config.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/blog/controllers/content.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/alloc/controllers/Alloc.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/modules/emailer/views/settings/emails.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/archives/application.php.bak</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/libraries/Template.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/modules/emailer/libraries/Emailer.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/app.yaml</file>
         </group>
     </open-files>
 </project-private>
