@@ -23,14 +23,15 @@ class Content extends Admin_Controller {
      * @return void
      */
     public function index() {
-        if (isset($_POST['delete'])) {
-            $this->deletePosts($this->input->post('checked'));
-        }
+//        if (isset($_POST['delete'])) {
+//            $this->deletePosts($this->input->post('checked'));
+//        }
+//        
+//        // Finished handling the post, now display the list
+//        $posts = $this->post_model->where('deleted', 0)->find_all();
 
-        // Finished handling the post, now display the list
-        $posts = $this->post_model->where('deleted', 0)->find_all();
-
-        Template::set('posts', $posts);
+//        Template::set('posts', $posts);
+        Template::set('posts', null);
 
         Template::render();
     }
