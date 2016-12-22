@@ -7,7 +7,8 @@ Assets::add_js('bootstrap.min.js');
 $inline  = '$(".dropdown-toggle").dropdown();';
 $inline .= '$(".tooltips").tooltip();';
 Assets::add_js($inline, 'inline');
-
+$meta_author = 'frankcusmano@hotmail.com';
+$meta_description = 'A parking bay allocation app';
 ?>
 <!doctype html>
 <head>

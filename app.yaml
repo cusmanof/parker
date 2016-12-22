@@ -2,14 +2,25 @@ runtime: php55
 api_version: 1
 
 handlers:
-    
-- url: /(.*\.(js|css|jpg))$
-  static_files: static/\1
-  upload: .*\.(js|css|jpg)$
-   
-- url: /public/favicon.ico
-  static_files: favicon.ico
-  upload: favicon.ico
-  
+# Serve images as static resources.
+- url: /(.*\.css)
+  mime_type: text/css
+  static_files: \1
+  upload: (.*\.css)
+  application_readable: true
+- url: /(.*\.ico)
+  mime_type: image/x-icon
+  static_files: \1
+  upload: (.*\.ico)
+  application_readable: true
+
+- url: /(.*\.js)
+  mime_type: text/javascript
+  static_files: \1
+  upload: (.*\.js)
+  application_readable: true
+ 
+# Serve php scripts.
 - url: /.*
   script: public/index.php
+  

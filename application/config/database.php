@@ -86,8 +86,7 @@
 | The $query_builder variables lets you determine whether or not to load
 | the query builder class.
 */
-
-$active_group = 'gae';
+$active_group = (0 === strpos($file_path, 'M:')) ? 'local' : 'gae';
 
     // CodeIgniter 3 configuration
     $query_builder = true;

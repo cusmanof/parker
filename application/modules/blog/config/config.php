@@ -2,8 +2,8 @@
 
 $config['module_config'] = array(
     'name'        => 'Blog',
-    'description' => 'A Simple Blog Example',
-    'author'      => 'Franco',
-    'homepage'    => '',
+    'description' => 'A Blog',
+    'author'      => 'frankcusmano@hotmail.com',
+    'homepage'    => 'fparker-153106.appspot.com/public/index.php',
     'version'     => '1.0.1',
 );
