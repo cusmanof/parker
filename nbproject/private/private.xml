@@ -3,16 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/views/home/index.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/modules/emailer/views/email/_footer.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/database/DB_query_builder.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/core/BF_Model.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/freedays/models/Freedays_model.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/public/index.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/views/_emails/activated.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/controllers/Home.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/views/home/index.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/ci3/core/Model.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/php.ini</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/core/BF_Model.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/index.html</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/modules/freedays/models/Freedays_model.php</file>
             <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/libraries/Falendar.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/public/index.php</file>
-            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/application/controllers/Home.php</file>
+            <file>file:/M:/adi_vsfz/dev_apps/wamp/apache2/htdocs/parker/bonfire/modules/emailer/views/email/_header.php</file>
         </group>
     </open-files>
 </project-private>
