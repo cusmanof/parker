@@ -38,61 +38,6 @@
                 text-align: center;
                 color:#0000cc;
             }
-            @media only screen and (max-device-width: 480px) {
-                table {
-                    border:0; 
-                    text-align: center;
-                    font-size:32px; 
-                    font-family:Verdana;
-                }
-                th {align: center; 
-                    font-size:32px;
-                    font-family:Arial;
-                    color:#666699;
-                }
-                p {
-                    font-size: 40px;
-                }
-                h1 {
-                    font-size: 56px;  
-                }
-
-                .free {
-                    font-size:32px; 
-                    font-family:Verdana;
-                    background:#00ff00;
-                }
-                .day {
-                    font-size:32px; 
-                    text-align: center;
-                    font-weight: bold;
-                    color:#666666;
-                }
-                .dayW {   
-                    font-size:32px; 
-                    text-align: center;
-                    font-weight: bold;
-                    color:#0000cc;
-                }
-                .dayd { 
-                    font-size:32px; 
-                    text-align: center;
-                    color:#666666;
-                }
-                .dayWd {  
-                    font-size:32px; 
-                    text-align: center;
-                    color:#0000cc;
-                }
-                .btn-md {
-                    padding:4px 9px;
-                    font-size:56px;
-                    line-height: 1.2;
-                }
-                a {
-                    font-size: 40px;
-                }
-            }
         </style>
     </head>
     <body>
