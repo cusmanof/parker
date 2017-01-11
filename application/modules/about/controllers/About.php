@@ -20,7 +20,7 @@ class About extends Front_Controller
         parent::__construct();
         
         $this->lang->load('about');
-        
+        $this->load->helper('form');
         
 
         Assets::add_module_js('about', 'about.js');
@@ -32,13 +32,8 @@ class About extends Front_Controller
      * @return void
      */
     public function index()
-    {
+    {   
         
-        
-        
-        
-        
-
         Template::render();
     }
     
