@@ -33,7 +33,6 @@ class About extends Front_Controller
      */
     public function index()
     {   
-        
         Template::render();
     }
     

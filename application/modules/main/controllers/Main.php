@@ -23,6 +23,11 @@ class Main extends Front_Controller {
     var $isOwner;
     var $act;
 
+     public static function icheck($val, $default) {
+        return isset($val) ? $val : $default;
+    }
+    
+    
     /**
      * Constructor
      *
@@ -41,7 +46,7 @@ class Main extends Front_Controller {
     }
 
     public function do_owner_select() {
-        $dd = $this->icheck($this->input->get('day'), '');
+        $dd = Main::icheck($this->input->get('day'), '');
         if (!empty($dd) && $dd >= date('Y-m-d')) {
             if ($this->session->has_userdata('first_day')) {
                 $this->session->set_userdata('last_day', $dd);
@@ -52,24 +57,22 @@ class Main extends Front_Controller {
     }
 
     public function do_user_select() {
-        $dd = $this->icheck($this->input->get('day'), '');
+        $dd = Main::icheck($this->input->get('day'), '');
         if (!empty($dd) && $dd >= date('Y-m-d')) {
             $this->freedays_model->alloc($this->user_data, $dd);
         }
     }
 
-    private function icheck($val, $default) {
-        return isset($val) ? $val : $default;
-    }
+   
 
     public function index() {
         $result = array();
         $used = array();
         $free = array();
         array_push($result, $used, $free);
-        $this->act = $this->icheck($this->input->get('act'), 'move');
-        $this->yy = $this->icheck($this->input->get('year'), date('Y'));
-        $this->mm = $this->icheck($this->input->get('month'), date('m'));
+        $this->act = Main::icheck($this->input->get('act'), 'move');
+        $this->yy = Main::icheck($this->input->get('year'), date('Y'));
+        $this->mm = Main::icheck($this->input->get('month'), date('m'));
         $curr_href = '&month=' . sprintf('%02d', $this->mm) . '&year=' . $this->yy;
         switch ($this->act) {
             case 'select':
